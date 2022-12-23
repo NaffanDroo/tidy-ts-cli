@@ -1,0 +1,12 @@
+{
+  "name": "tidy-ts-cli",
+  "version": "0.1.0",
+  "description": "A tidy TypeScript CLI template repository",
+  "main": "cli.js",
+  "repository": "https://github.com/NaffanDroo/tidy-ts-cli.git",
+  "author": "Nathan Drew <1035229+NaffanDroo@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
