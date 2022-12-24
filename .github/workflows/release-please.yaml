@@ -26,4 +26,6 @@ jobs:
           release-type: node
           package-name: tidy-ts-cli
           extra-files: |
+            src/index.ts
             README.md
+            
